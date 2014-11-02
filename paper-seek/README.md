@@ -1,5 +1,5 @@
-seed-element
-============
+paper-seek is using seed-element as template
+============================================
 
 See the [component page](http://polymerlabs.github.io/seed-element) for more information.
 
